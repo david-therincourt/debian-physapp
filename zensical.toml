@@ -1,10 +1,10 @@
 [project]
 site_url = "https://david-therincourt.github.io/debian-physapp/"
 site_name = "Documentation Debian 13"
-# site_description = "Your project description"
-# site_author = "Your name"
+site_description = "Installation d'un système d'exploitation pour la physique en BTS CIEL"
+site_author = "David THERINCOURT"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; 2026 David THERINCOURT"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
@@ -37,7 +37,7 @@ nav = [
 # variant = "classic"
 # custom_dir = "overrides"
 # favicon = "images/favicon.png"
-language = "en"
+language = "fr"
 features = [
   "announce.dismiss",
   # "content.action.edit",
